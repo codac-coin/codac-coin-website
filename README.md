@@ -1,12 +1,10 @@
-# codac-coin-website
-Official CODAC-COIN Portal Website
 # CODAC-COIN Website
 
 **Official Website of CODAC-COIN (Coin of Destiny & Change)**
 
----
+**Project Status:** 🚧 Under Active Development
 
-# 🚧 Under Active Development
+**Version:** Design Freeze v1.0
 
 The official CODAC-COIN website is currently under development.
 
@@ -78,6 +76,9 @@ The following components are currently being developed:
 - Reward Engine
 - Mobile Application
 
+Project Notice
+
+The information contained in this repository is intended for public reference during the development phase of the CODAC ecosystem. Additional features, modules, and documentation will be released as development progresses.
 ---
 
 # Copyright
