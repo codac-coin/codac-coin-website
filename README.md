@@ -32,9 +32,10 @@
 
 ---
 
-# Official Slogan
+# ⚡ CODAC-COIN Official Slogan
 
-> **EMPOWERING COMMUNITIES CREATING WEALTH WHILE TRADING, SHARING, SPENDING MOMENTS AND MONEY.**
+> **Empowering Communities │ Creating Wealth Through Trading │ Sharing │ Spending Moments and Money**
+
 
 ---
 
@@ -76,4 +77,6 @@ The following components are currently being developed:
 
 # Copyright
 
-© 2026 CODAC-COIN. All Rights Reserved.
+© 2026 CODAC-COIN. All Rights Reserved.  
+Founder & Creator: **Cris Gecalne**
+
