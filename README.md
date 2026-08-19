@@ -38,7 +38,7 @@ The public website currently provides project information only. Live public fina
 
 # CODAC-COIN Official Slogan
 
-> **Empowering Communities │ Creating Wealth Through Trading │ Sharing │ Spending Moments and Money**
+> **Empowering Communities │ Creating Wealth Through Trading │ Sharing │ Spending Time and Money**
 
 ---
 
